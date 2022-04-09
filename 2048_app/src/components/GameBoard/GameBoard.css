@@ -1,0 +1,17 @@
+.board {
+    /* background-color: #E6BA95; */
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap;
+    margin-top: 75px;
+}
+.gridbox {
+    margin-right: 5px;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+  
