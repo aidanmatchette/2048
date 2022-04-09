@@ -1,3 +1,7 @@
+* {
+    background-color: #ACB992;
+}
+
 .board {
     /* background-color: #E6BA95; */
     width: 600px;
@@ -7,6 +11,7 @@
     flex-direction: row; 
     flex-wrap: wrap;
     margin-top: 75px;
+    justify-content: space-evenly;
 }
 .gridbox {
     margin-right: 5px;

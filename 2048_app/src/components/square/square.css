@@ -1,9 +1,9 @@
 .work {
-    width: 125px;
-    height: 125px;
-    background-color: brown;
+    width: 145px;
+    height: 145px;
+    background-color: #E9E5D6;
+    border-radius: 10px;
     float: left;
-    margin: 5px;
+    margin: 0px;
     cursor: pointer;
-    margin-right: 15px;
 }
